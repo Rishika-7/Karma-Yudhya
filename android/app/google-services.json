@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300501780491",
+    "firebase_url": "https://paappunya-f41e1.firebaseio.com",
+    "project_id": "paappunya-f41e1",
+    "storage_bucket": "paappunya-f41e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300501780491:android:e87cb80fd1f36ba0bd1f0e",
+        "android_client_info": {
+          "package_name": "com.justapps.paap_punya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300501780491-mu84cd63mljnp9klqg02e0jitpnt8ll7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBao75C2ioE1QYg6XPBKB7Xn3TrWHn618Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300501780491-mu84cd63mljnp9klqg02e0jitpnt8ll7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

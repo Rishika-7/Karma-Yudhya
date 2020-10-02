@@ -3,6 +3,6 @@ A Karmic Account app. This app is built with the objective of helping people kee
 
  _**"What goes around, comes around"**_
 
-# Tech Stack
+## Tech Stack
 - Flutter
 - Firebase

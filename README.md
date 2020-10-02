@@ -1,16 +1,8 @@
-# paap_punya
+# PaapPunya
+A Karmic Account app, built with objective of helping people keep track of the all the good and bad deeds that they do in order to motivate the good in them.
 
-A new Flutter application.
+ _*"What goes around, comes around"*_
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tech Stack
+- Flutter
+- Firebase
